@@ -1,0 +1,25 @@
+{
+  "name": "prestamofrances",
+  "version": "1.0.0",
+  "description": "calula un prestamo en base al prestamo frances ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidWelchez/Prestamo-Frances.git"
+  },
+  "keywords": [
+    "prestamo",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "David Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidWelchez/Prestamo-Frances/issues"
+  },
+  "homepage": "https://github.com/DavidWelchez/Prestamo-Frances#readme"
+}
